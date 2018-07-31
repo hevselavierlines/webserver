@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		21C242BC1F48B15000C9E8D0 /* webservertest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = webservertest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21C242BF1F48B15100C9E8D0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		21EE09C81F48EBC8000CE2A3 /* 400.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 400.html; sourceTree = "<group>"; };
+		21EE09C91F48EBC8000CE2A3 /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		21EE09CA1F48EBC8000CE2A3 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		21EE09CB1F48EBC8000CE2A3 /* josef.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = josef.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,10 @@
 		21C242BE1F48B15000C9E8D0 /* webservertest */ = {
 			isa = PBXGroup;
 			children = (
+				21EE09C81F48EBC8000CE2A3 /* 400.html */,
+				21EE09C91F48EBC8000CE2A3 /* 404.html */,
+				21EE09CA1F48EBC8000CE2A3 /* index.html */,
+				21EE09CB1F48EBC8000CE2A3 /* josef.html */,
 				21C242BF1F48B15100C9E8D0 /* main.cpp */,
 			);
 			path = webservertest;
@@ -239,6 +247,7 @@
 				21C242C51F48B15100C9E8D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
